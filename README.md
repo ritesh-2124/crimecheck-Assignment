@@ -3,7 +3,7 @@
 
 # Diploy Link - https://crimechake.netlify.app/
 
-# Project GitHub -
+# Project GitHub - https://github.com/ritesh-2124/crimecheck-Assignment
 
 # Tech Stack 
 1. ReactJs  - FrontEnd
