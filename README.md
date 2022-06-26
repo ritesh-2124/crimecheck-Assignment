@@ -12,6 +12,8 @@
 4. MongoDB - DataBase
 5. ExpressJS - BackEnd
 6. Mui Library(Matareal UI) - Designe
+7. Backend Deployed - Horaku 
+8. Froneend Deployed - Netlefy
 
 # Features 
 1. user can ragister 
