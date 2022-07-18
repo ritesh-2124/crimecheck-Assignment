@@ -56,6 +56,8 @@ export default function Feed() {
       });
   };
 
+
+
   const { user } = useSelector((store) => store.LoginFatch);
 
   return (
@@ -83,6 +85,7 @@ export default function Feed() {
             placeholder="what you think you can tell me............"
             onChange={(e) =>
               setfeeds({ ...feeds, Notice: e.target.value, User_id: user._id })
+              
             }
             style={{ width: 500 }}
           />
